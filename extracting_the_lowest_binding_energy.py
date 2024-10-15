@@ -6,7 +6,7 @@ def extract_lowest_binding_energy(file_path):
   """Extracts the lowest binding energy from a Vina output file.
 
   Args:
-    file_path: media/…/CDK2/Docking/first docking docking/results
+    file_path: /media/…/allpubchem million by million/active mols/sdf_files/result
 
   Returns:
     The lowest binding energy as a float.
